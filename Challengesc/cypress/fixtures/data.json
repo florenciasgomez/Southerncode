@@ -1,0 +1,9 @@
+{
+  "inputSearch": "[id*=input_homepage]",
+  "buttonSearch": "[id*=button_homepage]",
+  "buttonMoreResult": "a[class*='result--more']",
+  "buttonMenu": "a[class*='button--menu']",
+  "buttonSaveAndExit": "a[class*='js-set-exit']",
+  "buttonTerminal": "label[class='set-theme is-checked']",
+  "buttonLanguage": "#setting_kad"
+}

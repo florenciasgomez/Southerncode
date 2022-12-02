@@ -1,0 +1,17 @@
+{
+  "name": "api-duckduck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.6.1"
+  }
+}
